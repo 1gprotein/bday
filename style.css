@@ -1,0 +1,38 @@
+body {
+    background-color: #9c5464;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 15rem;
+
+}
+
+button {
+    background-color: #721825;
+    color: #f48ca8;
+}
+
+button:hover {
+    background-color: pink;
+    border: dotted 5px #535959;
+    color: white;
+    cursor: pointer;
+}
+
+.middle {
+    text-align: center;
+    position: relative;
+    color: #fff;
+    ;
+    font-size: 22px;
+}
+
+#secret {
+    background-color: rgba;
+    ;
+    overflow: hidden;
+}
+
+.skii {
+    color: #fff;
+}
